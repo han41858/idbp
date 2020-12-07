@@ -5,5 +5,11 @@
   "main": "build/public_api.d.ts",
   "repository": "https://github.com/han41858/web-storage",
   "author": "Han Jang-hyun <han41858@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
 }
