@@ -1,0 +1,9 @@
+{
+  "name": "web-storage",
+  "version": "0.0.0",
+  "description": "Web Storage for Browser.",
+  "main": "build/public_api.d.ts",
+  "repository": "https://github.com/han41858/web-storage",
+  "author": "Han Jang-hyun <han41858@gmail.com>",
+  "license": "MIT"
+}
