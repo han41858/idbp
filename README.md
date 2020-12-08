@@ -1,2 +1,3 @@
-# web-storage
-Web Storage for Browser.
+# IDBP
+
+IndexedDB Promise Wrapper

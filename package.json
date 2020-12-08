@@ -1,9 +1,9 @@
 {
-  "name": "web-storage",
+  "name": "idbp",
   "version": "0.0.0",
-  "description": "Web Storage for Browser.",
+  "description": "IndexedDB Promise wrapper",
   "main": "build/public_api.d.ts",
-  "repository": "https://github.com/han41858/web-storage",
+  "repository": "https://github.com/han41858/idbp",
   "author": "Han Jang-hyun <han41858@gmail.com>",
   "license": "MIT",
   "scripts": {

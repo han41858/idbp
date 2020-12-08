@@ -6,7 +6,7 @@
     "outDir": "build",
     "strict": true,
     "lib": [
-      "es6",
+      "ES2018",
       "dom"
     ]
   },
